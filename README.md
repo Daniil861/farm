@@ -1,6 +1,9 @@
 # farm
 https://daniil861.github.io/farm/
 
+![image](https://user-images.githubusercontent.com/90471703/196896950-030f74f1-9da4-4c30-bd4f-05e520200d8a.png)
+
+
 ## Javascript, Phaser 3
 
 Для начала игры необходимо выбрать предмет, который вы хотите разместить на поле. Для этого нужно кликнуть по предмету (корова, курица или пшеница).
